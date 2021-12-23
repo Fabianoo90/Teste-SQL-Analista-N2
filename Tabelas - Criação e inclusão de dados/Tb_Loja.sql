@@ -1,4 +1,3 @@
-/* Showing results for Tb_Loja.xlsx */
 
 /* CREATE TABLE */
 CREATE TABLE TB_LOJA(
