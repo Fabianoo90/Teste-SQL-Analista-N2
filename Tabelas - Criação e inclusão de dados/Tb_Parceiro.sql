@@ -1,4 +1,3 @@
-/* Showing results for Tb_Pareceiro.xlsx */
 
 /* CREATE TABLE */
 CREATE TABLE TB_PARCEIRO(
